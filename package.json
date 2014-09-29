@@ -1,0 +1,23 @@
+{
+  "name": "random-timestamp",
+  "version": "0.0.1",
+  "description": "Generate random date bewteen specified range",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarvys/random-timestamp.git"
+  },
+  "keywords": [
+    "util",
+    "date"
+  ],
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarvys/random-timestamp/issues"
+  },
+  "homepage": "https://github.com/jarvys/random-timestamp"
+}
